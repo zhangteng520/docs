@@ -55,6 +55,7 @@ git add .  # 添加所有修改
 git commit -m "Message"  # 创建提交
 git pull origin main #拉去最新的仓库
 git push -u origin main  # 推送到远程
+git push -f origin main #强制推送
 ```
 
 ## 历史查看
@@ -68,4 +69,5 @@ git diff HEAD~1  # 与前一提交比较
 git restore file.txt  # 丢弃工作区修改
 git reset --soft HEAD~1  # 撤销提交但保留修改
 git revert commit-id  # 创建撤销提交
+git rm -r --cached path #删除远端文件而不删除本地文件
 ```
