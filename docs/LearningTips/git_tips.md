@@ -37,7 +37,7 @@ git config --global user.email "your-email@example.com"
 ```
 git init  # 初始化仓库
 git clone https://...  # 克隆远程仓库
-
+git reomte add origin <https> #关联远端仓库
 ```
 
 ## 分支管理
