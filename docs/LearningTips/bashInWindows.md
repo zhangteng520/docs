@@ -2,12 +2,12 @@
 
 windows上使用bash，直接安装git就行，默认配置安装，在vs code 的Terminate，里面就有一个 git bash
 
-1.显示当前工作目录
+## 1.显示当前工作目录
 ```
 pwd
 ```
 
-2.VIM的使用
+## 2.VIM的使用
 ![模式切换](img/vim.png)
 
 ![复制粘贴](img/vim2.png)
