@@ -21,4 +21,8 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 plugins:
-  - blog
+  - blog:
+     blog_toc: true
+     pagination_per_page: 5
+     pagination_format: "~2~"
+  - offline

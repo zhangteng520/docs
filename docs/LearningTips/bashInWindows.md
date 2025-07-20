@@ -8,13 +8,13 @@ pwd
 ```
 
 ## 2.VIM的使用
-![模式切换](img/vim.png)
 
-![复制粘贴](img/vim2.png)
+<img src="img/vim.png" alt="模式切换" width="300" />
 
-![保存和退出](img/vim3.png)
+<img src="img/vim2.png" alt="复制粘贴" width="300" />
 
-[lianjie](index.md)
+<img src="img/vim3.png" alt="保存和退出" width="300" />
+
 ## 3. 检查当前目录权限
 ```
 ls -ld .
