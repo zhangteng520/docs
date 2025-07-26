@@ -27,7 +27,7 @@
 
 ## 🛠️ 技术栈
 
-- **语言**：C++、C、Python、java  
+- **语言**：C++、C、Python、java  、JS
 - **AI 工具**：Cursor、OpenAI API、DeepSeek、HunYuan  
 - **开发环境**：Git、VSCode、Visual Studio
 - **操作系统**：Windows、Unbuntu、Android  

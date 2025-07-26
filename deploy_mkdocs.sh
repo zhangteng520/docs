@@ -27,6 +27,7 @@ echo "[INFO] 文件已复制到 $target_dir。"
 
 # 4. Git 操作
 cd $target_dir
+pwd
 git add . -f
 git commit -m "auto: update site $(date '+%Y-%m-%d %H:%M:%S')"
 git push -f origin main
