@@ -7,7 +7,7 @@ categories:
 
 # AI辅助编程
 
-用 AI 来辅助编程（比如用 ChatGPT、Copilot 自动生成代码
+用 AI 来辅助编程（比如用 ChatGPT、Copilot 自动生成代码.
 
 <!-- more -->
 ## 常见的AI辅助工具
