@@ -4,13 +4,13 @@
 set -e
 
 # 1. 构建 mkdocs
-pipenv run mkdocs build
+./venv/Scripts/mkdocs build
 
 echo "[INFO] MkDocs build 完成。"
 
 # 2. 清空目标目录（保留 .git）
 
-target_dir="../website/zhangteng520.github.io"
+target_dir="../../website/zhangteng520.github.io"
 site_dir="site"
 git_repo="https://github.com/zhangteng520/zhangteng520.github.io.git"
 

@@ -5,6 +5,7 @@ categories:
   - FP
 ---
 # NVIDIA CUDA 浮点运算与 FMA 笔记
+<!-- more -->
 
 ## 1. IEEE 754 浮点标准简介
 - 主流计算系统（包括 NVIDIA CUDA 架构）均实现 IEEE 754 浮点标准。
