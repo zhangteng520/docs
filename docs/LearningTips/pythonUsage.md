@@ -21,6 +21,17 @@ python -m venv venv_name
 ```
 deactivate
 ```
+安装依赖
+```
+pip install -r requirements.txt
+```
+
+导出依赖
+```
+pip freeze > requirements.txt
+
+```
+
 
 ### 2. virtualenv（兼容多版本 Python）
 安装：
